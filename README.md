@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/naufalmassawa/bangkit-capstone-project">
-    <img src="DOCUMENTATION IMAGES/SAI.JPG" alt="Logo" width="200" height="200">
+    <img src="DOCUMENTATION IMAGE/SAI.jpg" alt="Logo" width="200" height="200">
   </a>
 
   <h2 align="center">Bangkit Capstone Project 2022: S.A.I (Smart Attendance Inovation)</h2>
@@ -78,7 +78,7 @@
 
 <!-- USAGE EXAMPLES -->
 ## Usage (WIP)
-<B>How to detect skin disease</B>
+<B>How to detect face</B>
 1. Login the app
 2. Choose "Camera" on the bottom navigation menu.
 3. Take a photo of your face.
