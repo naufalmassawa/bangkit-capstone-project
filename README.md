@@ -4,19 +4,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-   ![SAI](https://user-images.githubusercontent.com/91328211/172416013-5027870a-4a41-4e50-990f-29ae28fa15b6.jpg)
+  <a href="https://github.com/naufalmassawa/bangkit-capstone-project">
+    <img src="DOCUMENTATION IMAGES/SAI.JPG" alt="Logo" width="200" height="200">
+  </a>
 
   <h2 align="center">Bangkit Capstone Project 2022: S.A.I (Smart Attendance Inovation)</h2>
   <h2 align="center">Attendance Using Face Recognation</h2>
-
-  <p align="center">
-
-    ·
-    <a href="https://github.com/naufalmassawa/bangkit-capstone-project/issues">
-      Report Bug</a>
-    ·
-    <a href="https://github.com/naufalmassawa/bangkit-capstone-project/issues">Request Feature</a>
-    ·
   </p>
 </p>
 
