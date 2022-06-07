@@ -4,9 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/naufalmassawa/bangkit-capstone-project">
    ![SAI](https://user-images.githubusercontent.com/91328211/172416013-5027870a-4a41-4e50-990f-29ae28fa15b6.jpg)
-  </a>
 
   <h2 align="center">Bangkit Capstone Project 2022: S.A.I (Smart Attendance Inovation)</h2>
   <h2 align="center">Attendance Using Face Recognation</h2>
